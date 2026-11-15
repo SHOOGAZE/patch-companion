@@ -17,6 +17,8 @@ It does not make sound and it is not an editor. It gives you a starting position
 - **Saved**: keep cards on the device and reload them later
 - **Installable**: add to the Home Screen and it works offline (PWA)
 
+On tablets and desktops the card spreads its rails over two columns and opens the text version below it, so the whole patch fits on one screen.
+
 Interface in RU / EN · light, grey and dark skins · scope-style boot screen · phone, tablet and desktop layouts.
 
 The values are starting points built from public panel specs, not measured against the real instruments. Your ears decide.
