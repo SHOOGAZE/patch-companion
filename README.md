@@ -15,6 +15,7 @@ It does not make sound and it is not an editor. It gives you a starting position
 - **Card**: knob dials with values, drawn envelope shapes, LFO routing, a text version to copy
 - **Share and print**: every card exports as a **PNG picture** (on a phone it opens the system Share sheet) and prints as a clean one-page A4 sheet
 - **Saved**: keep cards on the device and reload them later
+- **Fidget**: triple-tap the logo for the Filter Fidget, a cutoff and resonance toy: drag a finger over the XY pad and hold a saw note through the low-pass, or patch cables to jacks
 - **Installable**: add to the Home Screen and it works offline (PWA)
 
 On tablets and desktops the card spreads its rails over two columns and opens the text version below it, so the whole patch fits on one screen.
@@ -22,6 +23,8 @@ On tablets and desktops the card spreads its rails over two columns and opens th
 Interface in RU / EN · light, grey and dark skins · scope-style boot screen · phone, tablet and desktop layouts.
 
 The values are starting points built from public panel specs, not measured against the real instruments. Your ears decide.
+
+<!-- Demo: in the GitHub editor, drag extras/demo.mp4 here; it is uploaded and plays inline. -->
 
 ## Screenshots
 
